@@ -1,7 +1,6 @@
 #include <stdio.h>
-#include <stdlib.h>
 
-int main()
+void main()
 {
     int a, b;
 
@@ -13,6 +12,4 @@ int main()
 
     printf("\nValor 1: %d\n", a);
     printf("Valor 2: %d", b);
-
-    return 0;
 }
