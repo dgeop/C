@@ -1,0 +1,13 @@
+Variáveis: Aquilo que recebe determinado valor/item para utilizar no programa
+
+• int – Números inteiros 
+• float – Números decimais
+• char – Texto/Caracteres
+• printf – Texto que será exibido ao usuário
+• scanf – Checa a entrada do usuário para gerar um resultado, deve sempre ser acompanhado do símbolo & com a variável
+• %d – Tipo da variável (int) que será exibida ou escaneada
+
+Comandos para formatação na linguagem C:
+
+• \n - Pular uma linha
+• \t - Equivale a um tab
