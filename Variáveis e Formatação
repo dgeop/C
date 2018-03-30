@@ -6,7 +6,6 @@ Variáveis: Aquilo que recebe determinado valor/item para utilizar no programa
 • char – Texto/Caracteres -- %c
 • printf – Texto que será exibido no console
 • scanf – Checa a entrada do usuário para gerar um resultado, deve sempre ser acompanhado do símbolo & com a variável
-• %d – Tipo da variável (int) que será exibida ou escaneada
 
 Comandos para formatação na linguagem C:
 
